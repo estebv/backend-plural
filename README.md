@@ -1,1 +1,5 @@
-# backend-plural
+# backend-plural 
+proyecto bootcamp eafit 
+
+angular
+firebase
